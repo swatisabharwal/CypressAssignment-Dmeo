@@ -1,0 +1,8 @@
+{
+  "username" :"airtable_testuser-325544@yopmail.com",
+  "ApplicationURL": "https://airtable.com/",
+  "LoginPageURL" :"https://airtable.com/login",
+  "password": "Airtable@1234",
+  "BaseName": "Test-First-Base"
+  
+}
