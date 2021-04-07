@@ -1,7 +1,7 @@
 /// <reference types = "cypress"/>
 import PO_Signup from '../PageObject/PO_Signup'
 describe('AirTableSignup', () => {
-  const testdatafile = 'C:/Users/ssabharwal/CypressAutomation/cypress/fixtures/random_username.json'
+  const testdatafile = './cypress/fixtures/random_username.json'
   const randomUsername = generateNewUserName()
   let userWorkEmail = randomUsername + "@yopmail.com"
   const signup = new PO_Signup()
